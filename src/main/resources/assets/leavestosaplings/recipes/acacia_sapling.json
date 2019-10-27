@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:leaves2",
+      "data": 0
+    },
+    {
+      "item": "minecraft:leaves2",
+      "data": 0
+
+    },
+    {
+      "item": "minecraft:leaves2",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "minecraft:sapling",
+    "data": 4
+  }
+}
